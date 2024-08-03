@@ -20,10 +20,10 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        <img src="mics/k-space.png" width="200" height="200">
+        <img src="mics/k-space.png" allowfullscreen width="200" height="200">
     </td>
     <td>
-        <img src="mics/img_MB4R2.png" width="200" height="200">
+        <img src="mics/img_MB4R2.png" allowfullscreen width="200" height="200">
     </td>
     <td>
         <img src="mics/fastMRI_MB4R2.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
