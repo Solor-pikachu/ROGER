@@ -21,7 +21,7 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        <img src="mics/img_MB4R2.png" width="256" height="256">
+        <img src="mics/k-space.png" width="256" height="256">
     </td>
     <td>
         <img src="mics/img_MB4R2.png" width="256" height="256">
