@@ -3,6 +3,38 @@
 
 The code will come soon.
 
+<table>
+  <tr>
+    <td>
+        SMS K-space
+    </td>
+    <td>
+        SMS imgae
+    </td>
+    <td>
+       Recon
+    </td>
+    <td>
+       GT
+    </td>
+    
+  </tr>
+  <tr>
+    <td>
+        <img src="misc/img_MB4R2.png" alt="Video 1" width="256" height="256">
+    </td>
+    <td>
+        <img src="misc/img_MB4R2.png" alt="Video 1" width="256" height="256">
+    </td>
+    <td>
+        <img src="misc/fastMRI_MB4R2.gif" alt="Video 1" width="256" height="256">
+    </td>
+    <td>
+        <img src="misc/gt.gif" alt="Video 1" width="256" height="256">
+    </td>
+  </tr>
+</table>
+
 ## SMS reconstruction
 ### Raw data ###
 <div align="center">
