@@ -21,20 +21,19 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        <img src="mics/k-space.png" width="200" height="200">
-        <img src="mics/k-space.png" width="200" height="200">
+        <img src="mics/k-space.png" width="25%">
+        <img src="mics/k-space.png" width="25%">
     </td>
     <td>
-        <img src="mics/img_MB4R2.png" width="200" height="200">
-        <img src="mics/img_MB4R3.png" width="200" height="200">
+        <img src="mics/img_MB4R2.png" width="25%">
+        <img src="mics/img_MB4R3.png" width="25%">
     </td>
     <td>
-        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="200" height="200">
-        <img src="mics/fastMRI_MB4R3.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="200" height="200">
+        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
+        <img src="mics/fastMRI_MB4R3.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
     </td>
     <td>
-        <img src="mics/gt.gif"            frameBorder="0" class="giphy-embed" allowFullScreen width="200" height="200">
-        <img src="mics/gt.gif"            frameBorder="0" class="giphy-embed" allowFullScreen width="200" height="200">
+        <img src="mics/gt.gif"            frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
     </td>
   </tr>
 </table>
