@@ -27,10 +27,10 @@ The code will come soon.
         <img src="mics/img_MB4R2.png" width="256" height="256">
     </td>
     <td>
-        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" width="256" height="256">
+        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="256" height="256">
     </td>
     <td>
-        <img src="mics/gt.gif"            frameBorder="0" width="256" height="256">
+        <img src="mics/gt.gif"            frameBorder="0" class="giphy-embed" allowFullScreen width="256" height="256">
     </td>
   </tr>
 </table>
