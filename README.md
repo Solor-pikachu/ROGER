@@ -84,6 +84,7 @@ The code will come soon.
             </td>
             <td>
                 <img src="mics/gt.gif" alt="Ground Truth">
+                <img src="mics/gt.gif" alt="Ground Truth">
             </td>
         </tr>
     </table>
