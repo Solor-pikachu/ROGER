@@ -38,6 +38,41 @@ The code will come soon.
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+        SMS K-space
+    </td>
+    <td>
+        SMS image
+    </td>
+    <td>
+        Recon
+    </td>
+    <td>
+        GT
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <img src="mics/k-space.png" width="200" height="200">
+        <img src="mics/k-space.png" width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/img_MB4R2.png" width="200" height="200">
+        <img src="mics/img_MB4R3.png" width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/fastMRI_MB4R2.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+        <img src="mics/fastMRI_MB4R3.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+    </td>
+  </tr>
+</table>
+
+
 ## Citation
 ```
 @article{huang2024robust,
