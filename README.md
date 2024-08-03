@@ -54,8 +54,9 @@ The code will come soon.
             width: 25%;
         }
         td img {
-            max-width: 100%;
-            height: auto;
+            width: 200px; /* 统一的宽度 */
+            height: 200px; /* 统一的高度 */
+            object-fit: cover; /* 保持图片比例，同时填满单元格 */
             display: block;
             margin: 0 auto;
         }
@@ -84,12 +85,12 @@ The code will come soon.
             </td>
             <td>
                 <img src="mics/gt.gif" alt="Ground Truth">
-                <img src="mics/gt.gif" alt="Ground Truth">
             </td>
         </tr>
     </table>
 </body>
 </html>
+
 
 
 
