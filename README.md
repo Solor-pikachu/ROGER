@@ -27,24 +27,13 @@ The code will come soon.
         <img src="mics/img_MB4R2.png" width="256" height="256">
     </td>
     <td>
-        <img src="mics/fastMRI_MB4R2.gif" alt="Video 1" width="256" height="256">
+        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" width="256" height="256">
     </td>
     <td>
-        <img src="mics/gt.gif"            alt="Video 1" width="256" height="256">
+        <img src="mics/gt.gif"            frameBorder="0" width="256" height="256">
     </td>
   </tr>
 </table>
-
-## SMS reconstruction
-### Raw data ###
-<div align="center">
-  <img src="raw-datas.png" width="50%">
-</div>
-
-### Reconstruction ###
-<div align="center">
-  <img src="reconstruction.png" width="70%">
-</div>
 
 ## Citation
 ```
