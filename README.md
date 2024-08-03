@@ -38,6 +38,31 @@ The code will come soon.
   </tr>
 </table>
 
+<table border="1" cellspacing="10" cellpadding="10">
+  <tr>
+    <th>SMS K-space</th>
+    <th>SMS image</th>
+    <th>Recon</th>
+    <th>GT</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="mics/k-space.png" class="giphy-embed" width="200" height="200">
+        <img src="mics/k-space.png" class="giphy-embed" width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="mics/img_MB4R3.png" class="giphy-embed" width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/fastMRI_MB4R2.gif" class="giphy-embed" width="200" height="200">
+        <img src="mics/fastMRI_MB4R3.gif" class="giphy-embed" width="200" height="200">
+    </td>
+    <td>
+        <img src="mics/gt.gif" class="giphy-embed" width="200" height="200">
+    </td>
+  </tr>
+</table>
 
 
 ## Citation
