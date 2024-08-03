@@ -47,6 +47,12 @@ The code will come soon.
             padding: 10px;
             text-align: center;
         }
+        th {
+            width: 25%;
+        }
+        td {
+            width: 25%;
+        }
         td img {
             max-width: 100%;
             height: auto;
