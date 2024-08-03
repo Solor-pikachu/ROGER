@@ -2,8 +2,15 @@
 👏👏 Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors
 
 ## SMS reconstruction
+
+### Raw data ###
 <div align="center">
-  <img src="task.png" width="70%">
+  <img src="raw-datas.png" width="70%">
+</div>
+
+### Reconstruction ###
+<div align="center">
+  <img src="reconstruction.png" width="70%">
 </div>
 
 ## The code will come soon.
