@@ -30,6 +30,10 @@ The code will come soon.
   </tr>
 </table>
 
+| SMS K-space | SMS image | Recon | GT |
+|-------------|-----------|--------|----|
+| ![K-space Image 1](mics/img_MB4R2.png) ![K-space Image 2](mics/img_MB4R2.png) | ![SMS Image MB4R2](mics/img_MB4R2.png) ![SMS Image MB4R3](mics/img_MB4R3.png) | ![Recon MB4R2](mics/fastMRI_MB4R2.gif) ![Recon MB4R3](mics/fastMRI_MB4R3.gif) | ![Ground Truth](mics/gt.gif) |
+
 
 <!DOCTYPE html>
 <html lang="en">
