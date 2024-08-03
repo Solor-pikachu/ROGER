@@ -5,7 +5,7 @@
 
 ### Raw data ###
 <div align="center">
-  <img src="raw-datas.png" width="70%">
+  <img src="raw-datas.png" width="50%">
 </div>
 
 ### Reconstruction ###
