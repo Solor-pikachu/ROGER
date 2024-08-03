@@ -30,7 +30,7 @@ The code will come soon.
         <img src="mics/fastMRI_MB4R2.gif" alt="Video 1" width="256" height="256">
     </td>
     <td>
-        <img src="mics/gt.gif" alt="Video 1" width="256" height="256">
+        <img src="mics/gt.gif"            alt="Video 1" width="256" height="256">
     </td>
   </tr>
 </table>
