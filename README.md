@@ -1,5 +1,6 @@
 # ROGER
 👏👏 [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600)
+
 The code will come soon.
 
 ## SMS reconstruction
@@ -7,6 +8,7 @@ The code will come soon.
 <div align="center">
   <img src="raw-datas.png" width="50%">
 </div>
+
 ### Reconstruction ###
 <div align="center">
   <img src="reconstruction.png" width="70%">
