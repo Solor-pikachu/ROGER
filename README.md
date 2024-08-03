@@ -1,6 +1,10 @@
 # ROGER
 👏👏 Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors
 
+## SMS reconstruction
+<div align="center">
+  <img src="task.jpg" width="70%">
+</div>
 
 ## The code will come soon.
 
