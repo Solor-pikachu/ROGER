@@ -9,31 +9,30 @@ The code will come soon.
         SMS K-space
     </td>
     <td>
-        SMS imgae
+        SMS image
     </td>
     <td>
-       Recon
+        Recon
     </td>
     <td>
-       GT
+        GT
     </td>
-    
   </tr>
   <tr>
     <td>
-        <img src="mics/k-space.png" width="25%">
-        <img src="mics/k-space.png" width="25%">
+        <img src="mics/k-space.png" width="200" height="200">
+        <img src="mics/k-space.png" width="200" height="200">
     </td>
     <td>
-        <img src="mics/img_MB4R2.png" width="25%">
-        <img src="mics/img_MB4R3.png" width="25%">
+        <img src="mics/img_MB4R2.png" width="200" height="200">
+        <img src="mics/img_MB4R3.png" width="200" height="200">
     </td>
     <td>
-        <img src="mics/fastMRI_MB4R2.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
-        <img src="mics/fastMRI_MB4R3.gif" frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
+        <img src="mics/fastMRI_MB4R2.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+        <img src="mics/fastMRI_MB4R3.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
     <td>
-        <img src="mics/gt.gif"            frameBorder="0" class="giphy-embed" allowFullScreen width="25%">
+        <img src="mics/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
   </tr>
 </table>
