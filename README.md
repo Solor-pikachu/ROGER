@@ -30,40 +30,6 @@ The code will come soon.
   </tr>
 </table>
 
-| SMS K-space | SMS image | Recon | GT |
-|-------------|-----------|--------|----|
-| ![K-space Image 1](mics/img_MB4R2.png) ![K-space Image 2](mics/img_MB4R2.png) | ![SMS Image MB4R2](mics/img_MB4R2.png) ![SMS Image MB4R3](mics/img_MB4R3.png) | ![Recon MB4R2](mics/fastMRI_MB4R2.gif) ![Recon MB4R3](mics/fastMRI_MB4R3.gif) | ![Ground Truth](mics/gt.gif) |
-
-
-
-<table>
-  <tr>
-    <th>SMS K-space</th>
-    <th>SMS image</th>
-    <th>Recon</th>
-    <th>GT</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="mics/img_MB4R2.png" alt="K-space Image 1" width="200" height="200">
-      <img src="mics/img_MB4R2.png" alt="K-space Image 2" width="200" height="200">
-    </td>
-    <td>
-      <img src="mics/img_MB4R2.png" alt="SMS Image MB4R2" width="200" height="200">
-      <img src="mics/img_MB4R3.png" alt="SMS Image MB4R3" width="200" height="200">
-    </td>
-    <td>
-      <img src="mics/fastMRI_MB4R2.gif" alt="Recon MB4R2" width="200" height="200">
-      <img src="mics/fastMRI_MB4R3.gif" alt="Recon MB4R3" width="200" height="200">
-    </td>
-    <td>
-      <img src="mics/gt.gif" alt="Ground Truth" width="200" height="200">
-    </td>
-  </tr>
-</table>
-
-
-
 
 ## Citation
 ```
