@@ -21,16 +21,16 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        <img src="misc/img_MB4R2.png" width="256" height="256">
+        <img src="mics/img_MB4R2.png" width="256" height="256">
     </td>
     <td>
-        <img src="misc/img_MB4R2.png" width="256" height="256">
+        <img src="mics/img_MB4R2.png" width="256" height="256">
     </td>
     <td>
-        <img src="misc/fastMRI_MB4R2.gif" alt="Video 1" width="256" height="256">
+        <img src="mics/fastMRI_MB4R2.gif" alt="Video 1" width="256" height="256">
     </td>
     <td>
-        <img src="misc/gt.gif" alt="Video 1" width="256" height="256">
+        <img src="mics/gt.gif" alt="Video 1" width="256" height="256">
     </td>
   </tr>
 </table>
