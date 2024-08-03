@@ -3,7 +3,7 @@
 
 ## SMS reconstruction
 <div align="center">
-  <img src="task.png" width="100%">
+  <img src="task.png" width="70%">
 </div>
 
 ## The code will come soon.
