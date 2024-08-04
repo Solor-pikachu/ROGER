@@ -19,22 +19,22 @@ The code will come soon.
       MB4R3
     </td>
     <td>
-        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
-        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
-        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
     </td>
     <td>
-        <img src="mics/img_MB4R1.png" class="giphy-embed" width="200" height="200">
-        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
-        <img src="mics/img_MB4R3.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R1.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/img_MB4R3.png" class="giphy-embed" width="200" height="200">
     </td>
     <td>
-        <img src="mics/fastMRI_MB4R1.gif" class="giphy-embed" width="200" height="200">
-        <img src="mics/fastMRI_MB4R2.gif" class="giphy-embed" width="200" height="200">
-        <img src="mics/fastMRI_MB4R3.gif" class="giphy-embed" width="200" height="200">
+        <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+        <img src="misc/fastMRI_MB4R2.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+        <img src="misc/fastMRI_MB4R3.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
     <td>
-        <img src="mics/gt.gif" class="giphy-embed" width="200" height="200">
+        <img src="mics/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
   </tr>
 </table>
