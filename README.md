@@ -17,7 +17,7 @@ The code will come soon.
       MB4R1
     </td>
     <td>
-         <img src="misc/img_MB4R1.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
+         <img src="misc/mask_MB4R1.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
     </td>
     <td>
         <img src="misc/img_MB4R1.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
@@ -32,7 +32,7 @@ The code will come soon.
       MB4R2
     </td>
     <td>
-         <img src="misc/img_MB4R2.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
+         <img src="misc/mask_MB4R2.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
     </td>
     <td>
         <img src="misc/img_MB4R2.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
@@ -49,7 +49,7 @@ The code will come soon.
       MB4R3
     </td>
     <td>
-         <img src="misc/img_MB4R3.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
+         <img src="misc/mask_MB4R3.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
     </td>
     <td>
         <img src="misc/img_MB4R3.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
