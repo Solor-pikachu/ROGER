@@ -17,7 +17,7 @@ The code will come soon.
       MB4R1
     </td>
     <td>
-        <img src="misc/img_MB4R1.png" class="giphy-embed" >
+         <img src="misc/img_MB4R1.png" class="giphy-embed" height="128" width="128" alt="SMS Image">
     </td>
     <td>
         <img src="misc/img_MB4R1.png" class="giphy-embed" height="128" width="128" alt="SMS Image">
