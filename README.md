@@ -14,9 +14,9 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        MB4R1
-        MB4R2
-        MB4R3
+      <div style="margin-bottom: 20px;">MB4R1</div>
+      <div style="margin-bottom: 20px;">MB4R1</div>
+      <div>MB4R1</div>
     </td>
     <td>
         <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
