@@ -17,16 +17,16 @@ The code will come soon.
       MB4R1
     </td>
     <td>
-         <img src="misc/img_MB4R1.png" class="giphy-embed" height="160" width="160" alt="SMS Image">
+         <img src="misc/img_MB4R1.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
     </td>
     <td>
-        <img src="misc/img_MB4R1.png" class="giphy-embed" height="160" width="160" alt="SMS Image">
+        <img src="misc/img_MB4R1.png" class="giphy-embed" height="140" width="140" alt="SMS Image">
     </td>
     <td>
-        <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen height="160" width="160" alt="Recon Image">
+        <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen height="140" width="140" alt="Recon Image">
     </td>
     <td>
-        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen height="160" width="160" alt="GT">
+        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen height="140" width="140" alt="GT">
     </td>
   </tr>
 </table>
