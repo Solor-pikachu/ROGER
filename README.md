@@ -14,8 +14,8 @@ The code will come soon.
   </tr>
   <tr>
     <td>
-        MB4R1<br>
-        MB4R2<br>
+        MB4R1
+        MB4R2
         MB4R3
     </td>
     <td>
