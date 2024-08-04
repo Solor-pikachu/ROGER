@@ -6,21 +6,30 @@ The code will come soon.
 ## Reconstruction
 <table border="1" cellspacing="10" cellpadding="10">
   <tr>
-    <th>SMS K-space</th>
+    <th>Sampling setting</th>
+    <th>Mask</th>
     <th>SMS image</th>
     <th>Recon</th>
     <th>GT</th>
   </tr>
   <tr>
     <td>
+        <th>MB4R1</th>
+        <th>MB4R2</th>
+        <th>MB4R3</th>
+    </td>
+    <td>
+        <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
         <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
         <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
     </td>
     <td>
+        <img src="mics/img_MB4R1.png" class="giphy-embed" width="200" height="200">
         <img src="mics/img_MB4R2.png" class="giphy-embed" width="200" height="200">
         <img src="mics/img_MB4R3.png" class="giphy-embed" width="200" height="200">
     </td>
     <td>
+        <img src="mics/fastMRI_MB4R1.gif" class="giphy-embed" width="200" height="200">
         <img src="mics/fastMRI_MB4R2.gif" class="giphy-embed" width="200" height="200">
         <img src="mics/fastMRI_MB4R3.gif" class="giphy-embed" width="200" height="200">
     </td>
