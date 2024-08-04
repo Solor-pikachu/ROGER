@@ -19,9 +19,9 @@ The code will come soon.
       MB4R3
     </td>
     <td>
-        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
-        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
-        <img src="misc/img_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/mask_MB4R1.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/mask_MB4R2.png" class="giphy-embed" width="200" height="200">
+        <img src="misc/mask_MB4R3.png" class="giphy-embed" width="200" height="200">
     </td>
     <td>
         <img src="misc/img_MB4R1.png" class="giphy-embed" width="200" height="200">
