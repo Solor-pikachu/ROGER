@@ -34,7 +34,7 @@ The code will come soon.
         <img src="misc/fastMRI_MB4R3.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
     <td>
-        <img src="mics/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
+        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen width="200" height="200">
     </td>
   </tr>
 </table>
