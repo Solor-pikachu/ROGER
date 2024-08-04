@@ -26,7 +26,7 @@ The code will come soon.
         <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen height="140" width="140" alt="Recon Image">
     </td>
     <td>
-        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen height="140" width="140" alt="GT">
+
     </td>
   </tr>
   <tr>
