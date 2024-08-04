@@ -20,13 +20,13 @@ The code will come soon.
         <img src="misc/mask_MB4R1.png" class="giphy-embed" >
     </td>
     <td>
-        <img src="misc/img_MB4R1.png" class="giphy-embed" height="200" width="200" alt="SMS Image">
+        <img src="misc/img_MB4R1.png" class="giphy-embed" height="100" width="100" alt="SMS Image">
     </td>
     <td>
-        <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen height="200" width="200" alt="Recon Image">
+        <img src="misc/fastMRI_MB4R1.gif" frameborder="0" class="giphy-embed" allowfullscreen height="100" width="100" alt="Recon Image">
     </td>
     <td>
-        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen height="200" width="200" alt="GT">
+        <img src="misc/gt.gif" frameborder="0" class="giphy-embed" allowfullscreen height="100" width="100" alt="GT">
     </td>
   </tr>
 </table>
