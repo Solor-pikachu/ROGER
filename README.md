@@ -3,8 +3,16 @@
 
 ## data and model weight are released at [google driven](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
 
-## Inference
+## Data preprocess
+Before inference, the data should be save like:
+```
+readout_data        = data['readout_data']
+readout_calibration = data['readout_calibration']
+readout_csm         = data['readout_csm']
+shifts              = data['shifts']
+```
 
+## Inference
 ``` bash
 python infer.py --input meas_MID00273_FID03217_TSE_SMS_334_SMS_data_slice0.npz --output MB3R3.npz --MB 3 --R 3 --chk 384x384_ema_0.9999_200000.pt 
 ```
