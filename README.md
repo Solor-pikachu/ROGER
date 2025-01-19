@@ -1,7 +1,13 @@
 # ROGER
 👏👏 [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600)
 
-The code will come soon.
+## data and model weight are released at [google driven](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
+
+## Inference
+
+``` bash
+python infer.py --input meas_MID00273_FID03217_TSE_SMS_334_SMS_data_slice0.npz --output MB3R3.npz --MB 3 --R 3 --chk 384x384_ema_0.9999_200000.pt 
+```
 
 ## Reconstruction
 <table border="1" cellspacing="10" cellpadding="10">
