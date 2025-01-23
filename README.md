@@ -6,7 +6,7 @@
   <img src="misc/SMS_illu.jpg"/>
 </div>
 <br>
-Fig.1 Illustration of the simultaneous multislice (SMS) MRI sampling and reconstruc- tion process. The acquisition involves multiple non-adjacent slices with CAIPI (controlled aliasing in parallel imaging) shift patterns and additional in-plane acceleration, resulting in sparse k-space and complex aliasing artifacts. The reconstruction of slices is difficult due to these strong aliasing artifacts and the absence of fully-sampled autocalibration sig- nals in many SMS-accelerated sequences.
+Fig.1 Illustration of the simultaneous multislice (SMS) MRI sampling and reconstruction process. The acquisition involves multiple non-adjacent slices with CAIPI (controlled aliasing in parallel imaging) shift patterns and additional in-plane acceleration, resulting in sparse k-space and complex aliasing artifacts. The reconstruction of slices is difficult due to these strong aliasing artifacts and the absence of fully-sampled autocalibration signals in many SMS-accelerated sequences.
 
 ## Methodology
 <div align="center">
