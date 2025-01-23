@@ -1,6 +1,19 @@
 # ROGER
 👏👏 [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600)
 
+## Simultaneous Multislice Reconstruction
+<div align="center">
+  <img src="misc/SMS_illu.png"/>
+</div>
+<br>
+Illustration of the simultaneous multislice (SMS) MRI sampling and reconstruc- tion process. The acquisition involves multiple non-adjacent slices with CAIPI (controlled aliasing in parallel imaging) shift patterns and additional in-plane acceleration, resulting in sparse k-space and complex aliasing artifacts. The reconstruction of slices is difficult due to these strong aliasing artifacts and the absence of fully-sampled autocalibration sig- nals in many SMS-accelerated sequences.
+
+## Methodology
+<div align="center">
+  <img src="misc/method.jpg"/>
+</div>
+<br>
+
 ## Release
 Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
 
