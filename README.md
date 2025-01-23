@@ -15,7 +15,7 @@ Fig.1 Illustration of the simultaneous multislice (SMS) MRI sampling and reconst
 <br>
 Fig.2 Schematic illustration of the proposed ROGER method. More details can be found in paper.
 
-## Release
+## Releases
 Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
 
 ## Data preprocess
