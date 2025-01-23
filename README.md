@@ -5,6 +5,12 @@
 Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
 
 ## Data preprocess
+Method for getting retrospectively accelerated brain dataset from [fastMRI](https://fastmri.med.nyu.edu):
+```
+fastMRI_data_preprocess.ipynb
+```
+
+## Inference
 Before inference, the data should be saved in 'npz' format like:
 ```
 readout_data        = data['readout_data']
@@ -12,12 +18,7 @@ readout_calibration = data['readout_calibration']
 readout_csm         = data['readout_csm']
 shifts              = data['shifts']
 ```
-Method for getting retrospectively accelerated brain dataset from [fastMRI](https://fastmri.med.nyu.edu):
-```
-fastMRI_data_preprocess.ipynb
-```
 
-## Inference
 ``` bash
 python infer.py --input meas_MID00273_FID03217_TSE_SMS_334_SMS_data_slice0.npz --output recon_MB3R3.npz --MB 3 --R 3 --chk 384x384_ema_0.9999_200000.pt 
 ```
