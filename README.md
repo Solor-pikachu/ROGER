@@ -95,6 +95,8 @@ python infer.py --input meas_MID00273_FID03217_TSE_SMS_334_SMS_data_slice0.npz -
   </tr>
 </table>
 
+##Contact
+If you have any questions, please contact Prof.Lyu (lvmengye@sztu.edu.cn) or raise an issue in the repository.
 
 ## Citation
 ```
