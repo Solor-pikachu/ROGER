@@ -1,4 +1,4 @@
-# ROGER
+# Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors
 This is the codebase for [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600) (ROGER), which is built upon [openai/guided-diffusion](https://github.com/openai/guided-diffusion/tree/main) with modifications for the training and sampling of image diffusion models and its application to MRI simultaneous multislice reconstruction.
 
 ## Simultaneous Multislice Reconstruction
