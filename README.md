@@ -13,7 +13,7 @@ Fig.1 Illustration of the simultaneous multislice (SMS) MRI sampling and reconst
   <img src="misc/method.jpg"/>
 </div>
 <br>
-Fig.2 Schematic illustration of the proposed ROGER method. (a) The overall reconstruction procedure using reverse diffusion sampling: at each reverse diffusion sampling timestep $t$, the image estimate $\mathbf{x}_{0|t}^{ms}$ is refined from $\mathbf{x}_{t}^{ms}$ using pre-trained denoising model via Eq.~\ref{eq:ROGER1}, followed by an adjustment with the SMS data consistency (DC) term from Eq.~\ref{eq:13}. Noise is then added to $\mathbf{\hat{x}}_{0|t}^{ms}$ to compute $\mathbf{x}_{t-1}^{ms}$ for the next sampling step as per Eq.~\ref{eq:ROGER2}. The SMS DC process includes (b) Data Reordering $\mathcal{R}$, which applies CAIPI shift and readout concatenation (ROC) to $\mathbf{x}_{0|t}^{ms}$, (c) Data Consistency, which updates $\mathcal{R}\mathbf{x}_{0|t}^{ms}$ using the gradient of the DC term, and (d) Undo Data Reordering $\mathcal{R}^{H}$, which reverses the reordering process to derive $\mathbf{\hat{x}}_{0|t}^{ms}$, facilitating continuation of the reverse diffusion sampling.
+Fig.2 Schematic illustration of the proposed ROGER method. More details can be found in paper.
 
 ## Release
 Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
