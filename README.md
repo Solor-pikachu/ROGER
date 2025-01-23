@@ -1,7 +1,8 @@
 # ROGER
 👏👏 [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600)
 
-## Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
+## Release
+Prospectively accelerated dataset and generative model weight are released at [Google Drive](https://drive.google.com/drive/folders/1dekG6Ya1crYhSpL3qJKEszfLDsB4_4z_?usp=sharing)
 
 ## Data preprocess
 Before inference, the data should be saved in 'npz' format like:
