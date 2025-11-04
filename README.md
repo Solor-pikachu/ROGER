@@ -101,9 +101,11 @@ If you have any questions, please contact Prof.Lyu (lvmengye@sztu.edu.cn) or rai
 ## Citation
 ```
 @article{huang2024robust,
-  title={Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors},
+  title={Robust Simultaneous Multislice MRI Reconstruction Using Slice-Wise Learned Generative Diffusion Priors},
   author={Huang, Shoujin and Luo, Guanxiong and Wang, Yuwan and Yang, Kexin and Zhang, Lingyan and Liu, Jingzhe and Guo, Hua and Wang, Min and Lyu, Mengye},
-  journal={arXiv preprint arXiv:2407.21600},
-  year={2024}
+  journal={Medical Image Analysis},
+  pages={103851},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
