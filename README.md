@@ -1,5 +1,5 @@
 # Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors
-This is the codebase for [Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors](https://arxiv.org/abs/2407.21600) (ROGER), which is built upon [openai/guided-diffusion](https://github.com/openai/guided-diffusion/tree/main) with modifications for the training and sampling of image diffusion models and its application to MRI simultaneous multislice reconstruction.
+This is the codebase for [Robust Simultaneous Multislice MRI Reconstruction Using Slice-Wise Learned Generative Diffusion Priors](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003974) (ROGER), which is built upon [openai/guided-diffusion](https://github.com/openai/guided-diffusion/tree/main) with modifications for the training and sampling of image diffusion models and its application to MRI simultaneous multislice reconstruction.
 
 ## Simultaneous Multislice Reconstruction
 <div align="center">
@@ -102,7 +102,7 @@ If you have any questions, please contact Prof.Lyu (lvmengye@sztu.edu.cn) or rai
 ```
 @article{huang2024robust,
   title={Robust Simultaneous Multislice MRI Reconstruction Using Slice-Wise Learned Generative Diffusion Priors},
-  author={Huang, Shoujin and Luo, Guanxiong and Wang, Yuwan and Yang, Kexin and Zhang, Lingyan and Liu, Jingzhe and Guo, Hua and Wang, Min and Lyu, Mengye},
+  author={Shoujin Huang, Guanxiong Luo, Yunlin Zhao, Yilong Liu, Yuwan Wang, Kexin Yang, Jingzhe Liu, Hua Guo, Min Wang, Lingyan Zhang, Mengye Lyu*},
   journal={Medical Image Analysis},
   pages={103851},
   year={2025},
